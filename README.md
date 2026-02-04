@@ -7,5 +7,5 @@ Optionally, include the version numbers to have it update in all comments in pro
 Inside of this directory run:
 ```
 pip install  -r requirements.txt
-pyinstaller df-activex-convertor -F
+pyinstaller df-activex-convertor.py -F
 ```
